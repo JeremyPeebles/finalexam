@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SoftDevFinal</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="final_exam">Final Exam</string>
+    <string name="press_me">Press me!</string>
+	<string name="alert_btn">Show Alert Dialog!</string>
+    
+</resources>
